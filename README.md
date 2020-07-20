@@ -1,5 +1,6 @@
 # SecretDiary
 A website where you can create an account and write your deepest thoughts. The text gets saved automatically to the server as you type or make changes...
+Go to http://secret-diary007-com.stackstaging.com/ to view the website
 
 HOW TO USE IT?
 
